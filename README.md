@@ -7,5 +7,5 @@ To run the virtual environment, run the following command:
 ```
  source venv/bin/activate
  ```
- Note to self: Make sure you are in the project directory when running this command. It should end in asteroif_game
+ Note to self: Make sure you are in the project directory when running this command. It should end in asteroid_game
 
