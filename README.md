@@ -9,3 +9,7 @@ To run the virtual environment, run the following command:
  ```
  Note to self: Make sure you are in the project directory when running this command. It should end in asteroid_game
 
+ # Project Structure
+ Then main game loop is sitting in the main.py file. Most of the rest is pretty self
+ explanatory. But I'll add more details as this continues to grow. 
+
